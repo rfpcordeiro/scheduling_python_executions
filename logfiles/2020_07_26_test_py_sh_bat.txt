@@ -1,0 +1,2 @@
+Sun Jul 26 13:45:04 2020, Start time
+Sun Jul 26 13:45:07 2020, End time (it ends before you've clicked at dialog box)
